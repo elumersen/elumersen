@@ -5,6 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=elumersen" alt="elumersen" /></a> </p>
 
+
+- 👀 I’m interested in Web development, and currently working on it
+- 💞 I’m looking to collaborate on any kind of projects that are related to software development
 - 📫 How to reach me **melatermiyas2011@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
