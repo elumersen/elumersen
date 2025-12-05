@@ -8,9 +8,7 @@
 
 - 👀 I’m interested in Web development, and currently working on it
 - 💞 I’m looking to collaborate on any kind of projects that are related to software development
-- 📫 How to reach me **melatermiyas2011@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
