@@ -32,4 +32,4 @@
 </p>
 
 <!-- Optional: Add a short sentence or two below the badges if you'd like -->
-<p align="left">These are the primary technologies and workflows I focus on — if you'd like me to add or remove anything, tell me which ones to change.</p>
+<p align="left">These are the primary technologies and workflows I focus on with readiness to learn and expand my skills.</p>
